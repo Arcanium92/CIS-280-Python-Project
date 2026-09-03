@@ -50,3 +50,5 @@ Over the semester you'll come back to this project to:
 
 You're free to extend the `Catalog` and `Book` classes with new features as your
 team project requires — this starter is meant to be a foundation, not a final product.
+
+Set up by: Nick Morgan
